@@ -1,1 +1,0 @@
-A cybersecurity firm has found that hackers are able to use a range of vulnerable internet devices as tools to mine cryptocurrencies, including smartphones and security cameras. The firm claims if hackers were to hijack 15,000 internet-connected devices, they would be able to mine $1,000 worth of the monero cryptocurrency in just four days.
